@@ -64,15 +64,5 @@ python3 -m ffuflags -v --sort-by-param -i myfuzz.json
 
 Did you find this tool helpful? 
 
-Please consider sending me crypto through one of these addresses:
-
-Bitcoin: 38p6p4gLqfvZ4LShmWpNnphN1TjB8WgT8M
-
-Litecoin: MU8YSVUVwKDiaQfPurW8cVzxjbeZc2qv2S
-
-Ethereum: 0xC8E4ac8ee54698dDf47d7343e12aB83985F3900A
-
-Monero: 87eZsjdCFHtQXEf4A2Mer1XjJmLmD6N1b2maovAR4XtSYs4EupxZB7UfmG9eyb8qXpVvR9HdsEpf7K3A762w3LcNTg1fLTC 
-
-I stream regularly on Twitch as well at: [https://www.twitch.tv/darkmage666](https://www.twitch.tv/darkmage666)
+I stream regularly on Twitch as well at: [https://www.twitch.tv/darkmage666](https://www.twitch.tv/evildojo666)
 
